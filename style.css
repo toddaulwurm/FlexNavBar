@@ -4,7 +4,7 @@
     background-color: rgb(97, 89, 89);
     display: flex;
     align-items: center;
-    justify-content: space-between
+    justify-content: space-between;
 }
 
 .nav-title {
@@ -15,7 +15,7 @@
 .nav-links {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: space-evenly;
     list-style-type: none;
     color: white;
 }
